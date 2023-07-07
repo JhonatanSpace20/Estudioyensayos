@@ -10,10 +10,12 @@
     "strapi": "strapi"
   },
   "dependencies": {
-    "@api.video/strapi-uploader-plugin": "^1.0.2",
+    "@api.video/strapi-uploader-plugin": "^1.0.1",
     "@strapi/plugin-i18n": "4.11.2",
     "@strapi/plugin-users-permissions": "4.11.2",
     "@strapi/strapi": "4.11.2",
+    "i": "^0.3.7",
+    "npm": "^9.8.0",
     "pg": "8.8.0"
   },
   "author": {
