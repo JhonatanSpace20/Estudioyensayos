@@ -1,0 +1,36 @@
+{
+  "collectionName": "components_article_articles",
+  "info": {
+    "displayName": "article",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    },
+    "image": {
+      "type": "media",
+      "multiple": true,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "html": {
+      "type": "richtext"
+    },
+    "label_button": {
+      "type": "string"
+    },
+    "video": {
+      "type": "string"
+    }
+  }
+}
