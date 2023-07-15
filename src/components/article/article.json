@@ -31,6 +31,9 @@
     },
     "video": {
       "type": "string"
+    },
+    "link_button": {
+      "type": "string"
     }
   }
 }
