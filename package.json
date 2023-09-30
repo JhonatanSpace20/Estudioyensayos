@@ -11,13 +11,14 @@
   },
   "dependencies": {
     "@api.video/strapi-uploader-plugin": "^1.0.1",
-    "@strapi/plugin-i18n": "4.11.2",
-    "@strapi/plugin-users-permissions": "4.11.2",
+    "@strapi/plugin-i18n": "4.14.0",
+    "@strapi/plugin-users-permissions": "4.14.0",
     "@strapi/provider-upload-cloudinary": "^4.11.5",
-    "@strapi/strapi": "4.11.2",
+    "@strapi/strapi": "4.14.0",
     "i": "^0.3.7",
     "npm": "^9.8.0",
     "pg": "8.8.0",
+    "react-dom": "^18.2.0",
     "strapi-plugin-react-editorjs": "^2.0.2"
   },
   "author": {
